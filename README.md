@@ -83,7 +83,7 @@ Note that the PUB will not claim any annotations. Thus, any other
 processors you use can act upon all annotations in your sources when
 the PUB finishes its work.
 
-<a name="sec-use"> </a>
+<a name="sec-params"> </a>
 The PUB's parameters
 --------------------
 
